@@ -1,4 +1,3 @@
-
 {
   [cite_start]"name": "Adietya Vyas"[cite: 2],
   [cite_start]"located_in": "Pune, India"[cite: 8, 23],
