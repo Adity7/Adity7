@@ -1,6 +1,4 @@
-Of course. Here are your details filled into the template based on the resume you provided.
 
-```json
 {
   [cite_start]"name": "Adietya Vyas"[cite: 2],
   [cite_start]"located_in": "Pune, India"[cite: 8, 23],
@@ -28,4 +26,3 @@ Of course. Here are your details filled into the template based on the resume yo
   "current_goals": ["Please fill in your current goals."],
   "hobbies": ["Information not available in the resume"]
 }
-```
