@@ -34,6 +34,7 @@ Build scalable backend solutions
 📫 Connect
 
 Email: vyasaditya73@gmail.com
-LinkedIn: linkedin.com/in/adietyavyas
+LinkedIn: https://www.linkedin.com/in/aditya-vyas-0a5855167/
+Portfolio : https://portfolio-aditya-vyas-45.vercel.app/
 
 Explore my repos and let's build something awesome together!
