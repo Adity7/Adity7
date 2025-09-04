@@ -33,7 +33,7 @@ Build scalable backend solutions
 
 📫 Connect
 
-Email: adietyavyas@example.com
+Email: vyasaditya73@gmail.com
 LinkedIn: linkedin.com/in/adietyavyas
 
 Explore my repos and let's build something awesome together!
