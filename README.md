@@ -1,17 +1,5 @@
 👋 Adietya Vyas
 Hi! I'm a Software Developer from Pune, India, passionate about backend development, APIs, and AI/ML (RAG systems). I hold a B.Tech in Computer Science from MIT, Pune (2021, 7.58/10) and work as a self-employed developer.
-💻 About Me
-
-Focus: Backend Development, API & System Design, Machine Learning, Database Optimization
-Experience:
-Freelance Software Developer
-Software Intern, Algo University
-Program Analyst, WNS Global Services
-
-
-Projects:
-3-Tier Billing & Inventory System (Node.js, MongoDB)
-Secure RAG System (Python, TensorFlow)
 
 
 
