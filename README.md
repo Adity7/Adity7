@@ -1,5 +1,5 @@
 
-Hi! I'm a Software Developer from Pune, India, passionate about backend development, APIs, and AI/ML (RAG systems). I hold a B.Tech in Computer Science from MIT, Pune (2021, 7.58/10) and work as a self-employed developer.
+Hi! I'm a Software Developer from India, passionate about backend development, APIs, and AI/ML (RAG systems). I hold a B.Tech in Computer Science from MIT, Pune (2021, 7.58/10) and work as a self-employed developer.
 
 
 
